@@ -1,0 +1,3 @@
+GIT INIT (crear repositorio, solo se hace una sola vez)
+*verificar en la carpeta si se creo el archivo .git*
+GIT ADD 'NOMBRE Y EXTENSION DEL ARCHIVO A AGREGAR (Agregar al repositorio los archivos)
