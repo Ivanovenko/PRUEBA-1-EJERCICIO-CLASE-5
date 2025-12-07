@@ -4,3 +4,6 @@ GIT ADD 'NOMBRE Y EXTENSION DEL ARCHIVO A AGREGAR (Agregar al repositorio los ar
 GIT ADD . (agrega todo lo que esta dentro de la carpeta)
 GIT COMMIT -M 'COMENTARIO' (Guardar los movimientos que vamos realizando)
 **git commit no se puede usar si primero no se usa el git add**
+git branch -M main (cambia de rama Master a main)
+git remote add origin https://github.com/Ivanovenko/PRUEBA-1-EJERCICIO-CLASE-5.git (agega a internet el archivo)
+git push -u origin main (enviar el ultimo comit a la rama principal)
