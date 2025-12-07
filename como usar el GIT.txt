@@ -3,4 +3,4 @@ GIT INIT (crear repositorio, solo se hace una sola vez)
 GIT ADD 'NOMBRE Y EXTENSION DEL ARCHIVO A AGREGAR (Agregar al repositorio los archivos)
 GIT ADD . (agrega todo lo que esta dentro de la carpeta)
 GIT COMMIT -M 'COMENTARIO' (Guardar los movimientos que vamos realizando)
-s
+**git commit no se puede usar si primero no se usa el git add**
